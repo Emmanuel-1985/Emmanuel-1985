@@ -2,6 +2,10 @@
 
 ## Estudiante de "Tecnicatura Universitaria en Programacion", en la Universidad Tecnologica Nacional (UTN) de San Rafael, Mendoza.
 
+## Estas son algunas de las herramientas y tecnologias que actualmente estoy utilizando
+
+
+
 <div align="left">
     <h3> Languajes and tools: </h3>
     <div>
