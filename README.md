@@ -16,6 +16,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title "PYTHON" alt="PYTHON" width="50" heigth="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title "JAVA" alt="JAVA" width="60" heigth="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title "JAVASCRIPT" alt="JAVASCRIPT" width="50" heigth="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title "NODEJS" alt="NODEJS" width="50" heigth="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title "MYSQL" alt="MYSQL" width="60" heigth="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title "DOCKER" alt="DOCKER" width="55" heigth="55"/>&nbsp;
        </div>
